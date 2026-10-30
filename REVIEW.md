@@ -1,3 +1,7 @@
+# AIFFEL Campus Agent Code Review Templete
+- 개발자 : 강훈
+- 리뷰어 : 한윤석
+
 # ART 리뷰 — todoprd (Todo 앱)
 
 - 대상: https://github.com/benjy89a/todoprd (커밋 `7a78453`, 2026-10-30, 에이전트(Claude)와 함께 작성)
